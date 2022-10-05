@@ -5,4 +5,4 @@ The three folders are for different versions of the reanalysis. The original dat
  
 The folders include data for precipitation (PRATE), mean sea level pressure (PRMSL), specific humidity (SPFH), temperature (TMP), u-winds (UGRD), and v-winds (VGRD). For SPFH, TMP, UGRD, and VGRD these are available for different levels in the atmosphere (2m/10m, and 1000, 925, 850, 700, 500 and 400mb).
  
-Each file includes data for 16 timesteps (3-hourly data) during the storm, between 00 UTC on 26th February 1903 and 24 UTC on 27th February 1903, for a spatial domain centered on the UK.
+Each file includes data for 16 timesteps (3-hourly data) during the storm, between 00 UTC on 26th February 1903 and 21 UTC on 27th February 1903, for a spatial domain centered on the UK.
